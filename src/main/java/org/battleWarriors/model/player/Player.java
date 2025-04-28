@@ -1,4 +1,4 @@
-package org.battleWarriors.model;
+package org.battleWarriors.model.player;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
